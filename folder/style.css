@@ -1,0 +1,32 @@
+h2 {
+  font-size: 56px;
+  color: #9000ff;
+  font-style: bold;
+  font-weight: 900;
+  font-family: "saira", sans-serif;
+}
+p {
+  color: #0d0303;
+  font-size: 28px;
+    font-family: "Saira", sans-serif;
+}
+  
+.bold{
+  color: #0d0303;
+  font-size: 28px;
+  font-style: bold; 
+  font-weight: 900;
+}
+a{
+text-decoration-line: none;
+color: #7272dd;
+}
+img{
+width: 400px;
+border-radius: 10px;
+}
+img:hover{
+    transform: scaleX(-1);
+}
+
+
