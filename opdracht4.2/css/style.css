@@ -23,7 +23,7 @@ body {
   margin: 0;
   font-family: HelloHiFont, sans-serif;
  color: #111;
- background-image: url("/css/img/watch.png");
+ background-image: url(img/watch.png);
  background-repeat: no-repeat;
  background-attachment: fixed;
  background-position: 100%;
