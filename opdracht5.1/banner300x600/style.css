@@ -1,0 +1,63 @@
+.stage {  
+    position: relative;
+    cursor: pointer;
+    
+    -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;    
+   overflow: hidden;    
+}
+
+.sim{
+    transform: rotate(90deg);
+    height: 150px;
+    padding-left: 20px;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+
+
+.blackcolor{
+background-color: black;
+color: white;
+padding-top: 10px;
+padding-left: 30px;
+height: 600px;
+width: 300px;
+}
+li{
+    list-style: none;
+}
+.hi{
+    height: 40px;
+    position: fixed;
+    top: 20px;
+    left: 175px;
+}
+.Ontdek{
+ background-color: #9000ff;
+ color: white;
+ height: 50px;
+ width: 200px;
+ border-radius: 10px;
+ left: 60px;
+ top: 500px;
+ position: absolute;
+ padding: 10px;
+ border-color: white;
+ border-width: 2px;
+}
+ul{
+    padding-left: 0px;
+    margin-top: 150px;
+}
+.circle {
+    width: 340px;
+    height: 300px;
+    background: #9000ff;
+    border-radius: 50%;
+    position: absolute;
+    top: 450px;
+    left: -4px;
+}

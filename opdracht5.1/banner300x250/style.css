@@ -1,0 +1,42 @@
+.sim {
+  height: 110px;
+  padding-left: 20px;
+  position: absolute;
+  top: 20px;
+  left: 225px;
+}
+.blackcolor {
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+  padding-left: 30px;
+  height: 250px;
+  width: 300px;
+}
+
+li {
+  list-style: none;
+}
+ul{ 
+  padding-left: 0px;
+   margin-top: 10px;
+}
+.hi {
+  height: 40px;
+  position: absolute;
+  top: 20px;
+  left: 175px;
+}
+.Ontdek {
+
+  background-color: #9000ff;
+  color: white;
+  border-radius: 10px;
+  left: 225px;
+  top: 225px;
+  position: absolute;
+  padding: 10px;
+  border-color: white;
+  border-width: 2px;
+}
+
