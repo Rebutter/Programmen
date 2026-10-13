@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding:    0;
+}
+
+
+/* container for home */
+.contain{
+         display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #202731;
+    
+
+}
+
+
+/* change colors */
+nav{
+    height: 80px;
+}
+.home{
+    display: block;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: #202731;
+    background-color: #526B70;
+}
+section{
+    background-color: white;
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    background-color: #202731;
+    padding: 25px;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    padding: 20px;
+}
+.buttons button{
+    border-radius: 10px;
+    padding: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #526B70;
+    color: #202731;
+    border: none;
+
+}
+/* hover effect*/
+button:hover{
+    background-color: #D6D5CC;
+    color: black;
+
+}
+/* kleur voor midden achtergrond*/
+.section{
+    background-color: #344452;
+    color: #D6D5CC;
+}
+/* image/video */
