@@ -69,3 +69,68 @@ button:hover{
     color: #D6D5CC;
 }
 /* image/video */
+.container{
+    flex-wrap: wrap;    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 40px;
+    max-width: 80vw;
+}
+.block{
+    background-color: white;
+    height: 350px;
+    width: 300px;
+
+}
+.block2{
+    background-color: white;
+    height: 350px;
+    width: 300px;
+
+}
+.block3{
+    background-color: white;
+    height: 350px;
+    width: 300px;
+
+}
+.block4{
+    background-color: white;
+    height: 350px;
+    width: 300px;
+
+}
+.block5{
+    background-color: white;
+    height: 350px;
+    width: 300px;
+}
+.block6{
+    background-color: white;
+    height: 350px;
+    width: 300px;
+
+}
+.block7{
+    background-color: white;
+    height: 350px;
+    width: 640px;
+    display: flex;
+    justify-content: center;
+}
+.blblock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    background-color: green;
+    padding: 10px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-right: 25px;
+   font-size: 25px;
+    width: 50px;
+    height: 25px;
+    border-radius: 20px;
+}

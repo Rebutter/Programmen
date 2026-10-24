@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #7272dd;
+  width: 3200px;
+  height: 100px;
+  padding-left: 50px;
+}
+.nav {
+  text-decoration-line: none;
+  font-size: 75px;
+  margin-right: 30px;
+  color: white;
+ font-size: 60px; 
+ margin: 30px;
+ left: -400px;
+}
+h1 {
+  font-family: "saira", sans-serif;
+  margin-bottom: 20px;
+}
+h2 {
+  font-family: "saira", sans-serif;
+  font-weight: 900px;
+}
+.bow {
+  font-family: "saira", sans-serif;
+  color: white;
+}
+.wob{
+  font-family: "saira", sans-serif;
+}
+.owb{
+font-family: "saira", sans-serif;
+list-style: none;
+}
+
+.sectionblack {
+  background-color: black;
+  color: white;
+  height: 300px;
+  width: 3200px;
+  padding-left: 50px;
+}
+.sectioncolor {
+  background-color: #f5f7fa;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+
+.img-01 {
+  width: 250px;
+  position: absolute;
+  top: 525px;
+  left: 550px;
+}
+
+.buttn {
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-radius: 5px;
+  padding: 7px;
+  border: 2px solid white;
+}
+.buttnn {
+  background-color: #9000ff;
+  border-radius: 5px;
+  padding: 7px;
+  border-color: #9000ff;
+  margin-top: 40px;
+}
+.nogbutton {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+footer {
+  background-color: #9000ff;
+  width: 100%;
+  padding: 50px;
+}
+.linkj {
+  color: white;
+  font-size: 15px;
+  text-decoration-line: none;
+}
+.appleggls {
+  text-decoration-line: none;
+  color: white;
+}
+.play{
+  border: 2px solid white;
+     padding: 7px;
+   border-radius: 3px;
+   background-color: #9000ff;
+}
+
+.dropdown {
+  position: relative;
+  display: inline;
+}
+
+.dropdown-menu {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+    top: 100%;
+    left: 40px;
+  background-color: #7272dd;
+  min-width: 180px;
+  visibility: hidden;
+}
+
+.dropdown-menu a {
+  display: flex;
+  padding: 12px;
+  text-decoration: none;
+  border-bottom-right-radius: 75px;
+  color: white;
+
+}
+
+.dropdown-menu a:hover {
+  color: black;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: flex;
+  visibility: visible;
+  border-bottom-right-radius: 40px;
+}
+nav a{
+  background-color: #7272dd;
+  border-color: #7272dd;
+}
+
+
