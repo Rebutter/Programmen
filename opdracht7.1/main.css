@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.ab {
+  display: flex;
+  background-color: rgb(126, 126, 186);
+  color: black;
+  min-height: 100px;
+}
+.bb {
+  background-color: cyan;
+  min-height: 225px;
+
+}
+.cb {
+  background-color: darkblue;
+  min-height: 225px;
+
+}
+.db {
+  background-color: rgb(198, 98, 198);
+  min-height: 380px;
+
+}
+@media (min-width: 768px){
+   .ab {
+  background-color: rgb(186, 126, 138);
+}
+.bb {
+  background-color: rgb(49, 68, 68);
+
+}
+.cb {
+  background-color: rgb(171, 171, 237);
+  
+}
+.db {
+  background-color: rgb(23, 19, 23);
+  
+
+}
+
+    
+}
+@media (min-width: 1280px){
+   .ab {
+  background-color: rgb(203, 0, 41);
+}
+.bb {
+  background-color: rgb(242, 249, 43);
+
+}
+.cb {
+  background-color: rgb(171, 134, 32);
+  
+}
+.db {
+  background-color: rgb(19, 165, 41);
+  
+
+}
+
+    
+}
+
+

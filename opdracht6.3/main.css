@@ -15,5 +15,5 @@ body{
 .middle{
     flex-direction: row;
     display: flex;
-    gap: 30 px;
+    gap: 30px;
 }
